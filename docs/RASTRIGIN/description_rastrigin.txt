@@ -1,0 +1,12 @@
+Description:
+
+Dimensions: d
+
+The Rastrigin function has several local minima. It is highly multimodal, but locations of the minima are regularly distributed. It is shown in the plot above in its two-dimensional form.
+
+Input Domain:
+
+The function is usually evaluated on the hypercube xi ∈ [-5.12, 5.12], for all i = 1, …, d.
+
+Global Minimum:
+f(x*) = 0, at x* = (0,...,0)

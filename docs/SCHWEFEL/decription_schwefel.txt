@@ -1,0 +1,12 @@
+Description:
+
+Dimensions: d
+
+The Schwefel function is complex, with many local minima. The plot shows the two-dimensional form of the function.
+
+Input Domain:
+
+The function is usually evaluated on the hypercube xi ∈ [-500, 500], for all i = 1, …, d.
+
+Global Minimum:
+f(x*) = 0, at x* = (420.9687,...,420.9687)
