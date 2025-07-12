@@ -1,0 +1,58 @@
+=== ESTATÍSTICAS COMPARATIVAS DETALHADAS ===
+
+--- ACKLEY ---
+GA Original: 8.6904 ± 0.9740
+  - Mínimo: 6.7137
+  - Máximo: 10.5370
+  - Mediana: 8.6297
+ES Original: 8.2429 ± 1.0255
+  - Mínimo: 6.5375
+  - Máximo: 10.4648
+  - Mediana: 8.1134
+Melhor Original: ES (5.1% melhor)
+GA V2: 5.3656 ± 0.8603
+  - Melhoria vs GA Original: 38.3%
+
+--- RASTRIGIN ---
+GA Original: 13.3735 ± 4.0184
+  - Mínimo: 5.9796
+  - Máximo: 25.8773
+  - Mediana: 13.4403
+ES Original: 51.7891 ± 6.0597
+  - Mínimo: 40.1457
+  - Máximo: 61.4863
+  - Mediana: 52.7681
+Melhor Original: GA (74.2% melhor)
+GA V2: 16.3544 ± 8.4344
+  - Melhoria vs GA Original: -22.3%
+ES V2: 72.5365 ± 6.8815
+  - Melhoria vs ES Original: -40.1%
+ES V3: 30.6624 ± 3.6396
+  - Melhoria vs ES Original: 40.8%
+
+--- SCHWEFEL ---
+GA Original: 9580.4082 ± 379.7085
+  - Mínimo: 8728.0366
+  - Máximo: 10237.3461
+  - Mediana: 9631.2089
+ES Original: 9098.3991 ± 657.4258
+  - Mínimo: 7508.4915
+  - Máximo: 10247.5609
+  - Mediana: 9211.1868
+Melhor Original: ES (5.0% melhor)
+GA V2: 7388.0409 ± 478.9814
+  - Melhoria vs GA Original: 22.9%
+
+--- ROSENBROCK ---
+GA Original: 5.8955 ± 17.4234
+  - Mínimo: 0.1591
+  - Máximo: 72.8996
+  - Mediana: 0.9673
+ES Original: 64.8976 ± 18.2454
+  - Mínimo: 43.7314
+  - Máximo: 105.7551
+  - Mediana: 59.3689
+Melhor Original: GA (90.9% melhor)
+GA V2: 2.1221 ± 0.5927
+  - Melhoria vs GA Original: 64.0%
+
