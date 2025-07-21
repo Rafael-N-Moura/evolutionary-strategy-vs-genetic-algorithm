@@ -14,7 +14,7 @@ FUNCOES = {
 D = 30
 MU = 30
 LAMB = 200
-GENERATIONS = 1000
+GENERATIONS = 10000
 BOUNDS = {
     'ackley': (-32.768, 32.768),
     'rastrigin': (-5.12, 5.12),

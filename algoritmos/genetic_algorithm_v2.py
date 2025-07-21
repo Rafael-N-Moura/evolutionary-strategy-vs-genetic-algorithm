@@ -2,7 +2,7 @@ import numpy as np
 from benchmarks import ackley, rastrigin, schwefel, rosenbrock
 
 class GeneticAlgorithmV2:
-    def __init__(self, func, d=30, pop_size=200, generations=1000, bounds=(-5, 5)):
+    def __init__(self, func, d=30, pop_size=200, generations=10000, bounds=(-5, 5)):
         self.func = func
         self.d = d
         self.pop_size = pop_size

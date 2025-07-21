@@ -2,7 +2,7 @@ import numpy as np
 from benchmarks import ackley, rastrigin, schwefel, rosenbrock
 
 class EvolutionStrategy:
-    def __init__(self, func, d=30, mu=30, lamb=200, generations=1000, bounds=(-5, 5)):
+    def __init__(self, func, d=30, mu=30, lamb=200, generations=10000, bounds=(-5, 5)):
         self.func = func
         self.d = d
         self.mu = mu
