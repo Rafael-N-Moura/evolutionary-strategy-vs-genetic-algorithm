@@ -13,7 +13,7 @@ FUNCOES = {
 }
 D = 30
 POP_SIZE = 100
-GENERATIONS = 1000
+GENERATIONS = 10000
 BOUNDS = {
     'ackley': (-32.768, 32.768),
     'rastrigin': (-5.12, 5.12),

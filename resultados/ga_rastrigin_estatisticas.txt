@@ -1,4 +1,4 @@
-Média do melhor fitness: 13.373513460140282
-Desvio padrão do melhor fitness: 4.018440896102669
-Mínimo: 5.979590092361718
-Máximo: 25.87725462131607
+Média do melhor fitness: 14.493364917755704
+Desvio padrão do melhor fitness: 4.932719679492697
+Mínimo: 7.9597844332294585
+Máximo: 30.843804116846968
